@@ -1,5 +1,5 @@
 # LatticeConsensus
-Some code for consensus clustering based on concept lattices (or frequent closed itemsets if know only this term).
+Some code for consensus clustering based on concept lattices (or frequent closed itemsets if you know only this term).
 
 
 [Artem Bocharov, Dmitry Gnatyshak, Dmitry I. Ignatov, Boris G. Mirkin, Andrey Shestakov:
