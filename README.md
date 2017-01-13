@@ -1,5 +1,5 @@
 # LatticeConsensus
-Some code for Consensus Clustering.
+Some code for consensus clustering.
 
 
 [Artem Bocharov, Dmitry Gnatyshak, Dmitry I. Ignatov, Boris G. Mirkin, Andrey Shestakov:
